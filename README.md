@@ -1,7 +1,12 @@
-### Hi there 👋
+<p align="center"><samp>Hello there! I'm <b>ᴎiƚiᴎ</b>. (How are you here?)</samp></p>
 
-![mrnitinz's github stats](https://github-readme-stats.vercel.app/api?username=mrnitinz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnitinz&langs_count=10&theme=dracula&layout=compact" alt="MadhavSaladi :: Top Langs" /></p>
-
-<br>
+<p align="center"><samp>
+  I'm a 19 year old Developer living in India.
+  <br/><br/>
+  Maintaining Android Custom ROMs for <a href="https://www.gsmarena.com/xiaomi_redmi_note_4-8531.php/">Redmi Note 4 - Mido</a> | <a href="https://www.gsmarena.com/realme_xt-9813.php/">Realme XT - RMX1921</a>
+  <br/><br/>
+  Also, I like building beautiful Android apps in <b><a href="https://flutter.dev">Flutter</a></b> and playing around with <b><a href="https://golang.org/">GoLang</a></b>.
+  <br/><br/>
+  You can contact me on <a href="https://telegram.me/mr_nitinz/">Telegram</a> or via <a href="https://twitter.com/mrnitinz">Twitter</a>.
+  I typically respond fastest to Telegram messages.
+</samp></p>
